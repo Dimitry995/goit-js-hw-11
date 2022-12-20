@@ -1,0 +1,31 @@
+#container {
+    display: flex;
+    justify-content: center;
+    margin:0 auto;
+    background-color: blue;
+    height:120px;
+    align-items: center;
+}
+.gallery {
+    margin:0 auto;
+    width:700px;
+}
+.add {
+    height:50px;
+}
+.find {
+    width:75px;
+    height:50px;
+    margin-left:10px;
+}
+.load-more {
+    margin:0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.photo-card {
+    display: flex;
+justify-content: center;
+flex-direction: column;
+}
